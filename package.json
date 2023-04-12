@@ -1,0 +1,28 @@
+{
+  "name": "tutorial-bot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jubewe",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "oberknecht-client": "^0.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubewe/tutorial-bot.git"
+  },
+  "keywords": [
+    "oberknecht",
+    "tutorial",
+    "twitch"
+  ],
+  "bugs": {
+    "url": "https://github.com/jubewe/tutorial-bot/issues"
+  },
+  "homepage": "https://github.com/jubewe/tutorial-bot#readme",
+  "description": ""
+}
